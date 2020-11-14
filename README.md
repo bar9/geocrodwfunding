@@ -12,6 +12,7 @@ BaselHack / Climathon 2020 project
 
 ## Demo
 See geocrowdfunding in action [here](https://jlvd5.csb.app/)
+See the mock crowdfunding in action [here](https://stackblitz.com/edit/crowdsourcing?file=src%2FApp.vue)
 
 ## Technical Stuff
 ### Oranisation
