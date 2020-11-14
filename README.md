@@ -2,7 +2,7 @@
 BaselHack / Climathon 2020 project
 
 ## Team
-* Roman Engeler (Project Manager & Developer)
+* Roman Engeler (Product Manager & Developer)
 * Roland Brand (Developer)
 * Florian Sauter (Business Development)
 * Mark Montalbo (Business Development & Crowdfunding Expertise)
