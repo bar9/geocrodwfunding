@@ -11,8 +11,8 @@ BaselHack / Climathon 2020 project
 * matchmaking on a map for green city projects -- matching projects, landowners, stakeholders and activists
 
 ## Demo
-See geocrowdfunding in action [here](https://jlvd5.csb.app/)
-See the mock crowdfunding in action [here](https://stackblitz.com/edit/crowdsourcing?file=src%2FApp.vue)
+See geocrowdfunding in action [here](https://jlvd5.csb.app/) <br>
+See the mock crowdfunding in action [here](https://crowdsourcing.stackblitz.io/)
 
 ## Technical Stuff
 ### Oranisation
