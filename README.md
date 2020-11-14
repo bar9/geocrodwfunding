@@ -23,3 +23,6 @@ See the mock crowdfunding in action [here](https://crowdsourcing.stackblitz.io/)
 
 ### System design (crowdfunding integrator / mashup pattern)
 * The map serves as an index for location-based crowdfunding campaigns
+
+### Cool resources
+https://gitter.im/ngx-openlayers/Lobby?at=5cdebedb879f4478c7958427
