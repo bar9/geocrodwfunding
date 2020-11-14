@@ -12,13 +12,13 @@ BaselHack / Climathon 2020 project
 
 ## Demo
 See geocrowdfunding in action [here](https://bnxzg.csb.app/)<br>
-See the mock crowdfunding in action [here](https://crowdsourcing.stackblitz.io/)
+See the mock crowdfunding in action [here](https://47sv1.csb.app//)
 
 ## Technical Stuff
-### Oranisation
-* We have an Angular project on Codesandbox (the map), and a Vue project on Stackblitz (a simulated crodwfunding platform). We couldnt't decide between Angular and Vue so we did both. V2 will be in React :P
+### Repositories & Deployments
+* We have an Angular project (the map), and a Vue project (a simulated crodwfunding platform), both on Codesandbox. We couldnt't decide between Angular and Vue so we did both. V2 will be in React :P
 * [Map](https://codesandbox.io/s/geocrowdfunding-map-2-bnxzg)
-* [Crowdfunding]()
+* [Crowdfunding](https://codesandbox.io/s/47sv1)
 * This repo is the entry point we are using the _issuses_ here.
 
 ### System design (crowdfunding integrator / mashup pattern)
